@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MathKidz</string>
+    <string name="btn_back">Back to Topics</string>
+    <string name="btn_next">Next Exercise</string>
+    <string name="feedback_correct">🌟 Amazing! %1$s</string>
+    <string name="feedback_incorrect">💡 Not quite. %1$s</string>
+    <string name="score_format">⭐ Score: %1$d / %2$d</string>
+    <string name="main_subtitle">Let\'s learn math with fun! ✨</string>
+    <string name="main_footer">All exercises use whole numbers up to two digits and avoid mathematical symbols so younger children can understand the questions.</string>
+    <string name="topic_counting">🔢 Count Objects</string>
+    <string name="topic_place_value">🏠 Place Value</string>
+    <string name="topic_number_words">🔤 Number Words</string>
+    <string name="topic_sequence">📏 Number Sequence</string>
+    <string name="btn_results">See Results</string>
+    <string name="btn_try_again">Try Again</string>
+    <string name="results_title">Round Complete!</string>
+    <string name="results_score">%1$d / %2$d</string>
+    <string name="results_perfect">Excellent! You answered every question correctly.</string>
+    <string name="results_good">Nice work! Try another round to practise even more.</string>
+    <string name="results_practice">Keep practising. You can try the round again.</string>
+    <string name="round_finished">Round finished</string>
+</resources>
